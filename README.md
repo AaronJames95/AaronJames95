@@ -6,9 +6,10 @@ Most recently I was the sole engineer building desk tooling at a NYC trading fir
 
 Alongside that, I've spent two years doing adversarial LLM evaluation (DataAnnotation / Outlier / Mercor) — benchmarking models on code, math, and data-analysis tasks and writing rubrics designed to find where they break. It's given me a pretty concrete sense of what these systems are good at and where they quietly fail.
 
-(I love to create! When I do I go by "Xnthem"...)
+(I love to create! When I do I go by ["Xnthem"](https://instagram.com/xnthems.prototypes)...)
 
 **Currently available for contract work.** Interested in data infrastructure, backend/API work, and applied AI.
+
 [→ Tell me what you're stuck on](https://aaronjames95.github.io/hire/)
 
 ---
